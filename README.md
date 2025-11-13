@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=I%20am%20Satsuki.&fontSize=70&color=0:f1e05a,100:fe8019&stroke=000000&animation=fadeIn" alt="venom" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=I%20am%20Satsuki.&fontSize=70&color=0:f1e05a,100:fe8019&stroke=000000&animation=fadeIn&fontFamily=sans-serif" alt="venom" />
 </p>
+
 
 
 <p align="center">
